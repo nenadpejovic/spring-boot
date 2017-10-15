@@ -1,0 +1,7 @@
+build\test\config\ConfigService.class
+RestAuthenicationEntryPoint.class
+build\test\App.class
+SecurityConfig.class
+build\test\api\model\IdentityUserDetails.class
+PropertiesConfig.class
+build\test\api\TestController.class
